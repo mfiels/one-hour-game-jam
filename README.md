@@ -1,4 +1,5 @@
 one-hour-game-jam
 =================
 
-Silly HTML5 game made at the Stony Brook Game Developer's "One Hour, One Button Game Jam"
+Click and drag the mouse to connect circles of the same color.
+
